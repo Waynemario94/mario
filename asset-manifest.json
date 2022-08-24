@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mario/static/css/main.e50194e6.css",
+    "main.js": "/mario/static/js/main.98701050.js",
+    "static/media/me.jpg": "/mario/static/media/me.cb110dbedffef573ec49.jpg",
+    "static/media/avatar3.jpg": "/mario/static/media/avatar3.607e951e3e43259a80b6.jpg",
+    "static/media/portfolio3.jpg": "/mario/static/media/portfolio3.2551f1675c47d3896e9e.jpg",
+    "static/media/avatar2.jpg": "/mario/static/media/avatar2.150db407e40371b86e40.jpg",
+    "static/media/portfolio6.jpg": "/mario/static/media/portfolio6.e68748c1338caaf64cca.jpg",
+    "static/media/portfolio1.jpg": "/mario/static/media/portfolio1.a9859db29aab248dac14.jpg",
+    "static/media/avatar4.jpg": "/mario/static/media/avatar4.664d86158a6db3c2bfce.jpg",
+    "static/media/portfolio9.jpg": "/mario/static/media/portfolio9.f7870624947b1f0fcf08.jpg",
+    "static/media/portfolio8.jpg": "/mario/static/media/portfolio8.d37af4a16879ef56ad48.jpg",
+    "static/media/avatar1.jpg": "/mario/static/media/avatar1.a78a81163a9d635229d9.jpg",
+    "static/media/portfolio4.jpg": "/mario/static/media/portfolio4.4bbd420fd8fa11c60b93.jpg",
+    "static/media/me-about.jpg": "/mario/static/media/me-about.4447e840d3579a7f2e4e.jpg",
+    "static/media/CV.pdf": "/mario/static/media/CV.fa146ba347f16f323df0.pdf",
+    "static/media/bg-texture.jpg": "/mario/static/media/bg-texture.cdcbb920472f4970ff9b.jpg",
+    "index.html": "/mario/index.html",
+    "main.e50194e6.css.map": "/mario/static/css/main.e50194e6.css.map",
+    "main.98701050.js.map": "/mario/static/js/main.98701050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50194e6.css",
+    "static/js/main.98701050.js"
+  ]
+}
